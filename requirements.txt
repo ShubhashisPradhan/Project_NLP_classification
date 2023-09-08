@@ -1,5 +1,8 @@
 certifi==2023.7.22
 charset-normalizer==3.2.0
 idna==3.4
+numpy==1.25.2
 requests==2.31.0
+scipy==1.11.2
 urllib3==2.0.4
+xgboost==1.7.6
