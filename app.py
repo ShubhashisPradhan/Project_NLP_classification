@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import string
 import re
-from sklearn.feature_extraction.text import TfidfVectorizer
+#from sklearn.feature_extraction.text import TfidfVectorizer
 
 # Load your pickled model and TfidfVectorizer
 model = pickle.load(open('xgb_classifier.pkl', 'rb'))
